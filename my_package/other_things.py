@@ -1,1 +1,1 @@
-print "I got imported"
+print("I got imported")
